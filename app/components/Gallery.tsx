@@ -16,7 +16,7 @@ export default function Gallery() {
             >
               <Image
                 alt='Banner'
-                src={`/${num}.png`}
+                src={`/images/${num}.png`}
                 width={640}
                 height={640}
                 className='object-cover hover:scale-105 transition-transform duration-300'
