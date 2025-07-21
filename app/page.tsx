@@ -26,11 +26,11 @@ export default function Home() {
       <LazySection debugName={'Feature'}>
         <Features features={features} />
       </LazySection>
-      <div className='h-5' />
+      <div className='h-50' />
       <LazySection debugName={'FontShowcase'}>
         <FontShowcase />
       </LazySection>
-      <div className='h-5' />
+      <div className='h-50' />
       <LazySection debugName={'Gallery'}>
         <Gallery />
       </LazySection>
