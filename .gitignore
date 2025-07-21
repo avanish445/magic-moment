@@ -129,7 +129,6 @@ dist
 .vscode-test
 
 # yarn v3
-.pnp.*
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
